@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: Little more about me!!
 permalink: /about/
 ---
 
-Some information about you!
+I am currently doing my Masters in Bioinformatics and Computational Biology at the University of Minnesota,Twin Cities. 
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Research Interest:
+I love working on analysing single cell data to look at their gene expression.
+I am now learning Spatial Transcriptomic analysis in ovarian cancer cells.
+In my free time, I love running outdoors, watching movies and going on adventures with my Husband.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rojina.sapko@gmail.com](mailto:rojina.sapko@gmail.com)
