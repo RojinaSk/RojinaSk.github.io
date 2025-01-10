@@ -1,15 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-TNHE0S4BHL"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-TNHE0S4BHL');
-</script>
 
 # Name of your site (displayed in the header)
 name: Rojina Sapkotaaa
@@ -46,7 +38,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: G-TNHE0S4BHL
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
