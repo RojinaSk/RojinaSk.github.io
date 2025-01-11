@@ -8,7 +8,7 @@ tags: [bioinformatics, career, healthcare, innovation]
 
 Next, you can update your site name, avatar, and other options using the `_config.yml` file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/Bioinforverse.png)
 
 ## The Intersection of Science and Technology
 Bioinformatics operates at the intersection of biology and technology, offering unique opportunities to solve complex biological problems using computational methods. This interdisciplinary nature is inherently satisfying for many professionals because it allows them to apply diverse skill sets to real-world issues. The thrill of discovering new patterns in biological data or developing algorithms that can predict disease progression is immensely fulfilling.
