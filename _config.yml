@@ -4,7 +4,7 @@
 
 
 # Name of your site (displayed in the header)
-name: Rojina Sapkotaaa
+name: Rojina Sapkota
 
 # Short bio or description (displayed in the header)
 description: Welcome to my Bioinformatics and Comp Bio Blog!!!
@@ -50,7 +50,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/Rojina_blog.github.io"
+baseurl: "/Rojina_Blog.github.io"
 
 #
 # !! You don't need to change any of the configuration flags below !!
